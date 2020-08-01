@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amir Hossein Jahani</string>
+    <string name="record_id">Id</string>
+    <string name="record_name">Name</string>
+    <string name="record_family">Family</string>
+    <string name="record_level">Level</string>
+</resources>

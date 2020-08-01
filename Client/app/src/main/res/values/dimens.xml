@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="sec_tis">13dp</dimen>
+    <dimen name="btn">10dp</dimen>
+</resources>
